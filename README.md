@@ -177,7 +177,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
  23. [Tell me  about a time you surpassed people’s expectations.](./Common%20interview%20Questions/23.md)
 
- 24. [Tell me about a time you had to handle pressure.](./Common%20interview%20Questions/24.md)
+ 24. [Tell me about a time you had t o handle pressure.](./Common%20interview%20Questions/24.md)
 
  25. [Tell me about a time you had to learn something quickly.](./Common%20interview%20Questions/25.md)
 
